@@ -20,3 +20,4 @@
 /Users/deviiilsaint/Desktop/QuizGame/QuizGame.Core/obj/Debug/net9.0/refint/QuizGame.Core.dll
 /Users/deviiilsaint/Desktop/QuizGame/QuizGame.Core/obj/Debug/net9.0/QuizGame.Core.pdb
 /Users/deviiilsaint/Desktop/QuizGame/QuizGame.Core/obj/Debug/net9.0/ref/QuizGame.Core.dll
+/Users/deviiilsaint/Desktop/QuizGame/QuizGame.Core/obj/Debug/net9.0/QuizGame.Core.sourcelink.json

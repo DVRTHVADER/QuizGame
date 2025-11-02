@@ -28,3 +28,4 @@
 /Users/deviiilsaint/Desktop/QuizGame/QuizGame.Infrastructure/obj/Debug/net9.0/refint/QuizGame.Infrastructure.dll
 /Users/deviiilsaint/Desktop/QuizGame/QuizGame.Infrastructure/obj/Debug/net9.0/QuizGame.Infrastructure.pdb
 /Users/deviiilsaint/Desktop/QuizGame/QuizGame.Infrastructure/obj/Debug/net9.0/ref/QuizGame.Infrastructure.dll
+/Users/deviiilsaint/Desktop/QuizGame/QuizGame.Infrastructure/obj/Debug/net9.0/QuizGame.Infrastructure.sourcelink.json
